@@ -1,1 +1,0 @@
-# gdidet-intro-js
